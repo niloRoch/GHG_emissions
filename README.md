@@ -2,6 +2,15 @@
 
 A comprehensive data science project analyzing global methane emissions patterns across different sectors, regions, and time periods.
 
+![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
+![Streamlit](https://img.shields.io/badge/streamlit-1.28.0-red.svg)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.3.0-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+**🔗 [🚀 Acesse o Dashboard Online](https://ghgemissions.streamlit.app/)**
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ghgemissions.streamlit.app/)
+
 ## 📊 Project Overview
 
 This interactive dashboard provides deep insights into methane emissions worldwide, helping understand:
@@ -117,12 +126,20 @@ The dataset includes methane emissions data from various authoritative sources:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## 📞 **Contato**
+
+[![Website](https://img.shields.io/badge/Website-4c1d95?style=for-the-badge&logo=firefox&logoColor=a855f7)](https://www.nilorocha.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilo-rocha-/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilo.roch4@gmail.com)
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## 📈 **Analytics do Projeto**
 
-- Data sources: UNFCCC, EDGAR, IEA, FAO, Climate Watch
-- Streamlit community for amazing components
-- Plotly for interactive visualizations
+![GitHub stars](https://img.shields.io/github/stars/seu-usuario/employee-attrition-analytics?style=social)
+![GitHub forks](https://img.shields.io/github/forks/seu-usuario/employee-attrition-analytics?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/seu-usuario/employee-attrition-analytics?style=social)
+
+---
