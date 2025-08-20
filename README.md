@@ -126,7 +126,7 @@ The dataset includes methane emissions data from various authoritative sources:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📞 **Contato**
+## 📞 **Contact**
 
 [![Website](https://img.shields.io/badge/Website-4c1d95?style=for-the-badge&logo=firefox&logoColor=a855f7)](https://www.nilorocha.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilo-rocha-/)
@@ -143,3 +143,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![GitHub watchers](https://img.shields.io/github/watchers/seu-usuario/employee-attrition-analytics?style=social)
 
 ---
+
